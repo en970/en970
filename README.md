@@ -14,9 +14,10 @@
 
 ### Skills & Tools
 **Languages & Frameworks**
-- Python (primary language)
-- C#, C, C++
+- Python (primary language)(Jupyter Notebook)
+- C#, C, C++ (beginner level)
 - Flutter (beginner level)
+- R (beginner level)
 
 **Areas of Interest**
 - Machine Learning & Deep Learning
