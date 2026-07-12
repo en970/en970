@@ -24,7 +24,6 @@ Shipped AI and mobile apps:
 
 - **MacroLens** — photo-to-macros nutrition tracker (Flutter, Firebase, GPT-4o)
 - **AI CV Analyzer** — resume scoring and ATS rewriting (Flutter, FastAPI, Gemini)
-- **laundry** — live full-stack dorm laundry-status app (Flutter, Next.js, Firebase)
 - On-device audio apps for guitarists (Swift, real-time pitch and chord DSP)
 
 ### Education
@@ -39,5 +38,5 @@ Shipped AI and mobile apps:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=768390&center=true&vCenter=true&width=520&lines=Mathematics+%26+CS+student;Applied+ML+on+space+data;Building+and+shipping+AI+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=3FB950&center=true&vCenter=true&width=520&lines=Mathematics+%26+CS+student;Applied+ML+on+space+data;Building+and+shipping+AI+apps" alt="Typing SVG" />
 </p>
