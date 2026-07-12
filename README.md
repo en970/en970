@@ -38,5 +38,5 @@ Shipped AI and mobile apps:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=3FB950&center=true&vCenter=true&width=520&lines=Mathematics+%26+CS+student;Applied+ML+on+space+data;Building+and+shipping+AI+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=2EA043&center=true&vCenter=true&width=520&lines=Mathematics+%26+CS+student;Applied+ML+on+space+data;Building+and+shipping+AI+apps" alt="Typing SVG" />
 </p>
