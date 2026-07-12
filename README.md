@@ -4,29 +4,33 @@
 
 ---
 
-Fourth-year Mathematics and Computer Science student. My main interest is
-machine learning for scientific discovery — LLMs, VLMs, and applying ML to
-astronomy and space data. Alongside research, I build and ship AI-powered apps.
+Fourth-year Mathematics and Computer Science student.
+I work on machine learning for scientific discovery: LLMs, VLMs, and ML applied
+to astronomy and space data. Alongside research, I build and ship AI-powered apps.
 
 ### Research
 
-**space-ml-lab** — discovery-oriented ML on open space data: a CNN detector for
-solar radio bursts on e-CALLISTO spectrograms (validation AUC ~0.83), star-cluster
-recovery in Gaia DR3 with HDBSCAN, and autoencoder-based spectral anomaly detection
-on SDSS. Reproducible pipelines with a written technical report.
-https://github.com/en970/space-ml-lab
+**[space-ml-lab](https://github.com/en970/space-ml-lab)** — discovery-oriented ML on open space data:
+
+- CNN detector for solar radio bursts on e-CALLISTO spectrograms (validation AUC ~0.83)
+- Star-cluster recovery in Gaia DR3 with HDBSCAN
+- Autoencoder-based spectral anomaly detection on SDSS
+
+Reproducible pipelines with a written technical report.
 
 ### Building
 
-Shipped AI and mobile apps — a photo-to-macros nutrition tracker and an AI resume
-analyzer (both on the app stores), a live full-stack laundry-status app, and
-on-device audio apps for guitarists. Mostly Flutter, Firebase, and Python, with
-LLM and vision models (GPT-4o, Gemini, Claude) doing the analysis.
+Shipped AI and mobile apps:
+
+- **MacroLens** — photo-to-macros nutrition tracker (Flutter, Firebase, GPT-4o)
+- **AI CV Analyzer** — resume scoring and ATS rewriting (Flutter, FastAPI, Gemini)
+- **laundry** — live full-stack dorm laundry-status app (Flutter, Next.js, Firebase)
+- On-device audio apps for guitarists (Swift, real-time pitch and chord DSP)
 
 ### Education
 
-BSc Mathematics and Computer Science, in progress.
-Associate degree in Computer Programming, Anadolu University (Open Education).
+- BSc Mathematics and Computer Science — in progress
+- Associate degree in Computer Programming — Anadolu University (Open Education)
 
 ### Links
 
