@@ -22,9 +22,11 @@ Reproducible pipelines with a written technical report.
 
 Shipped AI and mobile apps:
 
-- **MacroLens** — photo-to-macros nutrition tracker (Flutter, Firebase, GPT-4o)
-- **AI CV Analyzer** — resume scoring and ATS rewriting (Flutter, FastAPI, Gemini)
-- On-device audio apps for guitarists (Swift, real-time pitch and chord DSP)
+- **MacroLens** — AI nutrition tracker, meal photo to macros. Flutter, Firebase, GPT-4o. [App Store](https://apps.apple.com/app/id6760192324) · [Google Play](https://play.google.com/store/apps/details?id=com.ens.macrolens.ai)
+- **AI CV Analyzer** — resume scoring and ATS-oriented rewriting. Flutter, FastAPI, Gemini. [App Store](https://apps.apple.com/app/id6760366023) · [Google Play](https://play.google.com/store/apps/details?id=com.aicvanalyzer.app)
+- **SwipeCure** — screen-time coach with weekly AI reflections. Swift, Gemini. [App Store](https://apps.apple.com/app/id6765948046)
+- **Plectro** — guitar practice tracker with real-time pitch and chord detection. Swift. [App Store](https://apps.apple.com/app/id6772536517)
+- **Niva** — offline habit and mood tracker with home-screen widgets. SwiftUI. [App Store](https://apps.apple.com/app/id6772962714)
 
 ### Education
 
