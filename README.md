@@ -1,25 +1,12 @@
-<table>
-  <tr>
-    <td valign="top" width="430">
-      <img src="assets/portrait.svg" width="410" alt="ASCII portrait of a cat, decoded line by line — meet the maintainer" />
-    </td>
-    <td valign="top">
-      <h1>Enes Öz</h1>
-      <p><em>Applied ML research and AI apps in production</em></p>
-      <p>
-        Fourth-year Mathematics and Computer Science student. I work on
-        machine learning for scientific discovery — LLMs, VLMs, and ML
-        applied to astronomy and space data — and build and ship
-        AI-powered apps.
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/enes-%C3%B6z-743b2120a">LinkedIn</a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/en970/space-ml-lab">space-ml-lab</a>
-      </p>
-    </td>
-  </tr>
-</table>
+# Enes Öz
+
+*Applied ML research and AI apps in production*
+
+Fourth-year Mathematics and Computer Science student. I work on machine learning
+for scientific discovery — LLMs, VLMs, and ML applied to astronomy and space
+data — and build and ship AI-powered apps.
+
+[LinkedIn](https://www.linkedin.com/in/enes-%C3%B6z-743b2120a) · [space-ml-lab](https://github.com/en970/space-ml-lab)
 
 ### Research
 
@@ -30,6 +17,8 @@
 - Autoencoder-based spectral anomaly detection on SDSS
 
 Reproducible pipelines with a written technical report.
+
+<img align="right" width="340" src="assets/portrait.svg" alt="ASCII cat looking up and down — meet the maintainer" />
 
 ### Building
 
