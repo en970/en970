@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/portrait.svg" width="620" alt="A terminal decoding an ASCII portrait, line by line" />
+</p>
+
 <h1 align="center">Enes Öz</h1>
 
 <p align="center">Applied ML research and AI apps in production</p>
