@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td valign="top" width="330">
-      <img src="assets/portrait.svg" width="300" alt="ASCII portrait of a cat, decoded line by line" />
+    <td valign="top" width="430">
+      <img src="assets/portrait.svg" width="410" alt="ASCII portrait of a cat, decoded line by line — meet the maintainer" />
     </td>
     <td valign="top">
       <h1>Enes Öz</h1>
