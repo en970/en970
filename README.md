@@ -10,13 +10,6 @@ data — and build and ship AI-powered apps.
 
 ### Research
 
-**[archival-discovery-search](https://github.com/en970/archival-discovery-search)** — a
-shift-and-add pipeline that recovers known irregular satellites of Uranus and Neptune from public
-archival imagery *blind*, without being told where they are or how fast they move: 19 detections
-across five nights and two telescopes, every astrometric residual under 1 arcsecond. Injection
-and recovery place its 50% completeness at m ~ 26.1-26.9. Built to test whether open archives
-still hold undiscovered objects; measured across four routes, the answer is no. 11-page report.
-
 **[structure-first-ml](https://github.com/en970/structure-first-ml)** — path signatures on
 irregularly sampled astronomical light curves. The signature turns out to be *complementary* to
 interpolation-based features rather than a replacement (0.577 combined against 0.562 alone), and
