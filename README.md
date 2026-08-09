@@ -10,13 +10,31 @@ data — and build and ship AI-powered apps.
 
 ### Research
 
-**[space-ml-lab](https://github.com/en970/space-ml-lab)** — discovery-oriented ML on open space data:
+**[archival-discovery-search](https://github.com/en970/archival-discovery-search)** — can an
+unaffiliated researcher still discover an astronomical object? Four routes through open archives,
+each with a kill criterion fixed before the measurement ran. Three close. The fourth recovers
+known irregular satellites of Uranus and Neptune *blind* from public archival imagery with
+sub-arcsecond astrometry, then measures out at the same depth the surveys that took those frames
+already reached. No object was discovered; ten errors made along the way are recorded rather than
+removed. 11-page report.
 
-- CNN detector for solar radio bursts on e-CALLISTO spectrograms (validation AUC ~0.83)
-- Star-cluster recovery in Gaia DR3 with HDBSCAN
-- Autoencoder-based spectral anomaly detection on SDSS
+**[structure-first-ml](https://github.com/en970/structure-first-ml)** — not "which architecture
+scores highest" but "what mathematical object is this measurement an element of". Path signatures
+on time series turn out to be *complementary* to standard features rather than better, with a
+noise control ruling out that the gain comes from capacity. A consensus-clustering search over
+2.15 M meteor orbits recovered 57% of the known shower catalogue and proposed nothing new.
 
-Reproducible pipelines with a written technical report.
+**[cms-dimuon-spectrum](https://github.com/en970/cms-dimuon-spectrum)** — 61.5 million real 2012
+CMS collision events from the CERN Open Data Portal; eight known resonances recovered to better
+than 1% against Particle Data Group values. Rediscovery, done properly.
+
+**[particlenet-jet-tagging](https://github.com/en970/particlenet-jet-tagging)** — when does a GNN
+actually beat a permutation-invariant baseline? A controlled comparison against Deep Sets on
+JetNet particle clouds.
+
+**[space-ml-lab](https://github.com/en970/space-ml-lab)** — five discovery-oriented ML pipelines
+on open space data: solar radio bursts on e-CALLISTO, star clusters in Gaia DR3, spectral
+anomalies in SDSS, two TESS searches. Candidate-level results with a 33-page report.
 
 <img align="right" width="340" src="assets/portrait.svg" alt="ASCII cat looking up and down — meet the maintainer" />
 
