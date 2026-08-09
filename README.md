@@ -10,31 +10,34 @@ data — and build and ship AI-powered apps.
 
 ### Research
 
-**[archival-discovery-search](https://github.com/en970/archival-discovery-search)** — can an
-unaffiliated researcher still discover an astronomical object? Four routes through open archives,
-each with a kill criterion fixed before the measurement ran. Three close. The fourth recovers
-known irregular satellites of Uranus and Neptune *blind* from public archival imagery with
-sub-arcsecond astrometry, then measures out at the same depth the surveys that took those frames
-already reached. No object was discovered; ten errors made along the way are recorded rather than
-removed. 11-page report.
+**[archival-discovery-search](https://github.com/en970/archival-discovery-search)** — a
+shift-and-add pipeline that recovers known irregular satellites of Uranus and Neptune from public
+archival imagery *blind*, without being told where they are or how fast they move: 19 detections
+across five nights and two telescopes, every astrometric residual under 1 arcsecond. Injection
+and recovery place its 50% completeness at m ~ 26.1-26.9. Built to test whether open archives
+still hold undiscovered objects; measured across four routes, the answer is no. 11-page report.
 
-**[structure-first-ml](https://github.com/en970/structure-first-ml)** — not "which architecture
-scores highest" but "what mathematical object is this measurement an element of". Path signatures
-on time series turn out to be *complementary* to standard features rather than better, with a
-noise control ruling out that the gain comes from capacity. A consensus-clustering search over
-2.15 M meteor orbits recovered 57% of the known shower catalogue and proposed nothing new.
+**[structure-first-ml](https://github.com/en970/structure-first-ml)** — path signatures on
+irregularly sampled astronomical light curves. The signature turns out to be *complementary* to
+interpolation-based features rather than a replacement (0.577 combined against 0.562 alone), and
+a noise control rules out the gain coming from extra capacity. Order information first appears at
+truncation depth 3, for a structural reason: in a monotone time channel the depth-2 Levy area
+degenerates.
 
 **[cms-dimuon-spectrum](https://github.com/en970/cms-dimuon-spectrum)** — 61.5 million real 2012
-CMS collision events from the CERN Open Data Portal; eight known resonances recovered to better
-than 1% against Particle Data Group values. Rediscovery, done properly.
+CMS collision events streamed from the CERN Open Data Portal. The dimuon invariant-mass spectrum
+recovers eight known resonances, rho/omega through the Z boson, to better than 1% against
+Particle Data Group masses.
 
-**[particlenet-jet-tagging](https://github.com/en970/particlenet-jet-tagging)** — when does a GNN
-actually beat a permutation-invariant baseline? A controlled comparison against Deep Sets on
-JetNet particle clouds.
+**[particlenet-jet-tagging](https://github.com/en970/particlenet-jet-tagging)** — a controlled
+answer to when a graph network beats a permutation-invariant baseline on jet tagging: on JetNet,
+it does not. Deep Sets reaches 70.5% accuracy and 0.913 macro AUC against ParticleNet's 69.7% and
+0.911, and the +5 points gained over the first iteration trace to engineered features rather than
+to the graph edges.
 
-**[space-ml-lab](https://github.com/en970/space-ml-lab)** — five discovery-oriented ML pipelines
-on open space data: solar radio bursts on e-CALLISTO, star clusters in Gaia DR3, spectral
-anomalies in SDSS, two TESS searches. Candidate-level results with a 33-page report.
+**[space-ml-lab](https://github.com/en970/space-ml-lab)** — five ML pipelines on open space data:
+a CNN detector for solar radio bursts on e-CALLISTO spectrograms, star-cluster recovery in Gaia
+DR3, autoencoder spectral anomalies in SDSS, and two TESS searches. 33-page report.
 
 <img align="right" width="340" src="assets/portrait.svg" alt="ASCII cat looking up and down — meet the maintainer" />
 
