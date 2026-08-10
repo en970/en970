@@ -22,11 +22,12 @@ CMS collision events streamed from the CERN Open Data Portal. The dimuon invaria
 recovers eight known resonances, rho/omega through the Z boson, to better than 1% against
 Particle Data Group masses.
 
-**[particlenet-jet-tagging](https://github.com/en970/particlenet-jet-tagging)** — a controlled
-answer to when a graph network beats a permutation-invariant baseline on jet tagging: on JetNet,
-it does not. Deep Sets reaches 70.5% accuracy and 0.913 macro AUC against ParticleNet's 69.7% and
-0.911, and the +5 points gained over the first iteration trace to engineered features rather than
-to the graph edges.
+**[particlenet-jet-tagging](https://github.com/en970/particlenet-jet-tagging)** — does the
+graph structure in a particle-cloud tagger earn its keep? At 30k jets a permutation-invariant
+Deep Sets baseline edges out ParticleNet (70.5% vs 69.7% accuracy), and the gain over the first
+iteration traces to engineered features rather than to the graph edges. Being redone at matched
+parameter count across 5 seeds on the full 880k-jet dataset, because a single-seed 0.8-point gap
+is smaller than the seed noise it was never measured against.
 
 **[space-ml-lab](https://github.com/en970/space-ml-lab)** — five ML pipelines on open space data:
 a CNN detector for solar radio bursts on e-CALLISTO spectrograms, star-cluster recovery in Gaia
